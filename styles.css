@@ -87,11 +87,7 @@ button:active {
     color: #38a1f3;
     
 }
-.next-button:hover {
-    color: #38a1f3;
-    
-}
-.button:hover{
+.next-button{
     color: #38a1f3;
 }
 
